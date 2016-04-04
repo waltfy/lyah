@@ -1,2 +1,6 @@
-# lyah
-Learn You a Haskell for Great Good!
+# lyah — **L**earn **Y**ou **a** **H**askell for Great Good!
+
+Learnings.
+
+
+
